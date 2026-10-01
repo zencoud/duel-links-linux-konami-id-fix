@@ -1017,6 +1017,12 @@ Duel Links
 
 ---
 
+## Result
+
+![KONAMI ID Data Transfer working on Linux](success.png)
+
+**¡Transferencia de datos completa!** — KONAMI ID data transfer successfully working on Linux with Steam + Proton.
+
 # Disclaimer
 
 Este proyecto no está afiliado con KONAMI, Valve, WineHQ ni CodeWeavers.
